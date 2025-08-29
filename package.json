@@ -1,0 +1,14 @@
+{
+    "name": "fastapi-notes-crud",
+    "description": "FastAPI Notes CRUD API with JWT Authentication",
+    "version": "1.0.0",
+    "main": "main.py",
+    "scripts": {
+        "start": "python main.py",
+        "dev": "uvicorn main:app --reload"
+    },
+    "dependencies": {},
+    "engines": {
+        "python": "3.12.x"
+    }
+}
